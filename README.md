@@ -34,6 +34,21 @@ I love to connect with fellow developers and enthusiasts. You can find me on the
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to say hi!
 
+## Languages & tools
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-61DAFB?logo=react&logoColor=white&style=flat-square)
+ ![Web Development](https://img.shields.io/badge/Web-Development-blue?style=flat-square&logo=html5&logoColor=white)
+ ![Designer](https://img.shields.io/badge/Designer-UI/UX-FF69B4?style=flat-square&logo=adobe&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
+ ![Git](https://img.shields.io/badge/Git-red?style=flat-square&logo=git&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blueviolet?style=flat-square&logo=tailwind-css&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## Featured Projects
+
 ## GitHub Stats
 ![Manu Shukla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manu31shukla&show_icons=true&theme=dark)
 
