@@ -37,5 +37,11 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 ## GitHub Stats
 ![Manu Shukla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manu31shukla&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manu31shukla&layout=compact&theme=dark)](https://github.com/manu31shukla)
+
+![Manu Shukla's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=manu31shukla&theme=dark)
+
+![Manu Shukla's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manu31shukla&theme=github)
+
 
 
