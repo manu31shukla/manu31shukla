@@ -1,8 +1,8 @@
 # Hi there!👋 
 
-## I am a software developer with a passion for creating elegant and intuitive user interfaces. I specialize in using  MERN(MongoDB, Express.js, React.js, Node.js) stack to build web applications that are both beautiful and functional.
+I am a software developer with a passion for creating elegant and intuitive user interfaces. I specialize in using  MERN(MongoDB, Express.js, React.js, Node.js) stack to build web applications that are both beautiful and functional.
 
-## In addition to my front-end development skills, I am also proficient in C++ and have experience in data structures and algorithms. I believe that a strong foundation in computer science is essential for creating high-quality software that can scale and perform well.
+ In addition to my front-end development skills, I am also proficient in C++ and have experience in data structures and algorithms. I believe that a strong foundation in computer science is essential for creating high-quality software that can scale and perform well.
 
 ## Skills
 - MERN Stack (MongoDB, Express.js, React.js, Node.js)
