@@ -51,7 +51,7 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 <a href="https://www.figma.com/design/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="50" /></a>   
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -68,8 +68,6 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
 
 </td></tr></table>  
 
