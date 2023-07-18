@@ -45,11 +45,9 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://www.figma.com/design/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="50" /></a>   
 </div>
 
 </td><td valign="top" width="33%">
@@ -90,20 +88,6 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 </td></tr></table>  
 
 <br/>  
-
-
-## Languages & tools
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-61DAFB?logo=react&logoColor=white&style=flat-square)
- ![Web Development](https://img.shields.io/badge/Web-Development-blue?style=flat-square&logo=html5&logoColor=white)
- ![Designer](https://img.shields.io/badge/Designer-UI/UX-FF69B4?style=flat-square&logo=adobe&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
- ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
- ![Git](https://img.shields.io/badge/Git-red?style=flat-square&logo=git&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blueviolet?style=flat-square&logo=tailwind-css&logoColor=white)
- ![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)
- ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Featured Projects
 
