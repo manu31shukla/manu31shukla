@@ -68,12 +68,8 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" height="50" /></a>  
 </div>
-
 </td></tr></table>  
-
 <br/>  
-
-## Featured Projects
 
 ## GitHub Stats
 ![Manu Shukla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manu31shukla&show_icons=true&theme=dark)
@@ -81,8 +77,3 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manu31shukla&layout=compact&theme=dark)](https://github.com/manu31shukla)
 
 ![Manu Shukla's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=manu31shukla&theme=dark)
-
-![Manu Shukla's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manu31shukla&theme=github)
-
-
-
