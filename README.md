@@ -14,6 +14,7 @@ On my GitHub account, you will find a collection of projects that showcase my sk
 ## Featured Projects
 Here are some of my notable projects that showcase my skills and expertise:
 
+- [Newsly](https://github.com/manu31shukla/Newsly) : Displays news of various categories using the News API.
 - [ShowRizz](https://github.com/manu31shukla/Show-Bizz): Displays a list of shows and their details. It allows users to scroll and search for shows, view their details, and book tickets for any show. Made using tvmaze api.
 - [Geezdotcom](https://github.com/manu31shukla/Blogging-site): Personalized blogging website.
 - [Weather extension](https://github.com/manu31shukla/Weather-extension): Chrome Extension for Weather Details using OpenWeather API
